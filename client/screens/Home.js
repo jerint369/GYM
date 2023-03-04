@@ -12,7 +12,7 @@ export default class LoginScreen extends Component {
   render() {
     return (
       <View style={styles.container}>
-        <Text style={styles.text}> Home kkk screen Page</Text>
+        <Text style={styles.text}> Home screen</Text>
         <StatusBar style="auto" />
       </View>
     );
